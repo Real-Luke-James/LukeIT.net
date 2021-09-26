@@ -1,4 +1,3 @@
 # LukeIT
 ## "If you Like it, Luke It!"
-Welcome to LukeIT. This website is in development.
-More Things coming soon!
+Welcome to LukeIT. LukeIT is a software development company founded by Real-Luke-James. Below this is our projects.
