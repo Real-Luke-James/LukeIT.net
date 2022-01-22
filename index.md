@@ -6,4 +6,6 @@ Welcome to LukeIT. LukeIT is a software development company founded by Real-Luke
 
 [Linux Tools For Windows](https://linuxtoolswin.lukeit.net)
 
+[PowerShell ISE Reworked](/PowerShellISEReworked)
+
 [Privacy Policy](/PrivacyPolicy)
