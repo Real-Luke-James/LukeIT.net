@@ -4,4 +4,6 @@ Welcome to LukeIT. LukeIT is a software development company founded by Real-Luke
 
 [LukeText](/LukeText)
 
+[Linux Tools For Windows](https://linuxtoolswin.lukeit.net)
+
 [Privacy Policy](/PrivacyPolicy)
